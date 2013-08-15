@@ -1,0 +1,3 @@
+[07-May-2013 13:49:50] PHP Fatal error:  Call to undefined function  get_header() in /home/sites/public_html/wp-content/themes/escola-sites-4/index.php on line 9
+[07-May-2013 13:50:04] PHP Fatal error:  Call to undefined function  get_header() in /home/sites/public_html/wp-content/themes/escola-sites-4/index.php on line 9
+[15-May-2013 11:22:47] PHP Fatal error:  Call to undefined function  get_header() in /home/sites/public_html/wp-content/themes/escola-sites-4/index.php on line 9
